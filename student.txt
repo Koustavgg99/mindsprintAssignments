@@ -1,2 +1,0 @@
-This is the student file , it contains info about student
-This is student 1 , name : ram
